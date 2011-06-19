@@ -10,3 +10,5 @@ gemfile:
 bundler_args: "--binstubs"
 env:
   - CI=true
+notifications:
+  disabled: true
